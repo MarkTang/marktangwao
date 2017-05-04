@@ -11,3 +11,13 @@ pygments: true
 excerpt_separator: "\n\n\n"
 
 paginate: 5
+
+author:             
+  name: MarkTang
+  email: marktangwao@foxmail.com
+  link: marktangwao
+  
+title: MarkTang's Blog
+
+
+
