@@ -1,6 +1,6 @@
 baseurl: /marktang.github.io
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 
 markdown: redcarpet
 
