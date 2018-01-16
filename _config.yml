@@ -2,7 +2,7 @@ baseurl: /MarkTang.github.io
 
 highlighter: rouge
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 markdown: redcarpet
 
